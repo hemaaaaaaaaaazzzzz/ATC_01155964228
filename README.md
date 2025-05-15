@@ -29,9 +29,8 @@ A basic backend app using Node.js, Express, and MongoDB for managing users, even
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/hemaaaaaaaaaazzzzz/Areeb_booking.git
-   cd Areeb_booking
-
+    git clone https://github.com/hemaaaaaaaaaazzzzz/ATC_01155964228.git
+    cd ATC_01155964228
 ## ⚙️ run the server
 
    npm run start:dev
